@@ -1,7 +1,7 @@
 {
   "name": "fantastical-vuejs-code",
-  "displayName": "fantastical-vuejs-code",
-  "description": "for vue.js code development",
+  "displayName": "Fantastical Vue.js Pack",
+  "description": "Extension Pack for vue.js development",
   "version": "0.0.1",
   "publisher": "sldobri",
   "engines": {
@@ -9,6 +9,15 @@
   },
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue.js",
+    "js",
+    "stylus",
+    "pug",
+    "svg"
   ],
   "extensionDependencies": [
     "Alan.stylus",
