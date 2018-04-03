@@ -1,0 +1,39 @@
+{
+    "name": "fantastical-vuejs-code",
+    "displayName": "fantastical-vuejs-code",
+    "description": "for vue.js code development",
+    "version": "0.0.1",
+    "publisher": "sldobri",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "Alan.stylus", 
+        "DotJoshJohnson.xml", 
+        "SirTori.indenticator", 
+        "WakaTime.vscode-wakatime", 
+        "aeschli.vscode-css-formatter", 
+        "bmewburn.vscode-intelephense-client", 
+        "fabiospampinato.vscode-bump", 
+        "jock.svg", 
+        "kamikillerto.vscode-colorize", 
+        "kokororin.vscode-phpfmt", 
+        "mrmlnc.vscode-apache", 
+        "ms-vscode.sublime-keybindings", 
+        "msjsdiag.debugger-for-chrome", 
+        "nonoroazoro.syncing", 
+        "octref.vetur", 
+        "patbenatar.advanced-new-file", 
+        "predrag-nikolic.php-class-helper", 
+        "sainoba.px-to-rem", 
+        "sdras.vue-vscode-snippets", 
+        "sldobri.daily", 
+        "sleistner.vscode-fileutils", 
+        "thisismanta.stylus-supremacy", 
+        "wmaurer.html2jade", 
+        "xabikos.JavaScriptSnippets"
+    ]
+}
