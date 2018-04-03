@@ -2,10 +2,19 @@
   "name": "fantastical-vuejs-code",
   "displayName": "Fantastical Vue.js Pack",
   "description": "Extension Pack for vue.js development",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "sldobri",
   "engines": {
     "vscode": "^1.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sldobri/fantastical-vuejs-code"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#0b1015",
+    "theme": "dark"
   },
   "categories": [
     "Extension Packs"

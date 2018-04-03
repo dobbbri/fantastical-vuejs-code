@@ -1,3 +1,6 @@
+### Version 0.1.0
+- fixes
+
 # Change Log
 All notable changes to the "fantastical-vuejs-code" extension pack will be documented in this file.
 
