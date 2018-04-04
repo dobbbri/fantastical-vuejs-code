@@ -1,6 +1,6 @@
 {
   "name": "fantastical-vuejs-code",
-  "displayName": "Fantastical Vue.js Pack",
+  "displayName": "Fantastic Vue.js Pack",
   "description": "Extension Pack for vue.js development",
   "version": "0.1.0",
   "publisher": "sldobri",
@@ -28,9 +28,7 @@
   ],
   "extensionDependencies": [
     "Alan.stylus",
-    "aeschli.vscode-css-formatter",
     "jock.svg",
-    "mrmlnc.vscode-apache",
     "octref.vetur",
     "sainoba.px-to-rem",
     "sdras.vue-vscode-snippets",
