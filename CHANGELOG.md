@@ -1,3 +1,6 @@
+### Version 0.1.2
+- remove extensions jock.svg and sainoba.px-to-rem
+
 ### Version 0.1.1
 - fix keywords (origin/master)
 - remove  packages
