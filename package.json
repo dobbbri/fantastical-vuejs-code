@@ -28,9 +28,7 @@
   ],
   "extensionDependencies": [
     "Alan.stylus",
-    "jock.svg",
     "octref.vetur",
-    "sainoba.px-to-rem",
     "sdras.vue-vscode-snippets",
     "thisismanta.stylus-supremacy",
     "wmaurer.html2jade",
